@@ -15,3 +15,12 @@ h2 {
     font-size: 40;
     text-align: right;
 }
+
+.imagem {
+    text-align: center;
+    background: black;
+}
+
+.rodape {
+   border-top-style: solid;
+   
